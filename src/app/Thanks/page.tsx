@@ -4,7 +4,7 @@
 export default function Thanks (){
     return (
         <div className=" w-full flex flext-col justify-center items-center ">
-            <img src="Thanks.jpg" className=" w-8/6 h-full items-center my-16" ></img>
+            <img src="Thanks.jpg" className=" w-8/6 h-full items-center my-16" />
 
         </div>
         

@@ -5,7 +5,7 @@ export default function City (){
     return (
         <div className="flex flex-col justify-center items-center space-y-16 my-4 ">
             <div className=" w-full h-auto flex flex-row justify-center float-left"> <h1 className=" font-bold text-4xl text-gray-700 text-center"> Honda City 2024 Price in Pakistan, Images, Reviews & Specs</h1> </div>
-            <div className="w-90 h-auto float-left justify-self-center items-center"> <img src="city.jpg" ></img> </div>
+            <div className="w-90 h-auto float-left justify-self-center items-center"> <img src="city.jpg" /> </div>
             <div className="w-10/12 h-auto float-left justify-center items-center">
             <p className="font-bold text-sm text-red-600 -700 text-center"> Honda City 1.2L M/T, 1199 cc, Manual, Petrol </p>
             <p className="font-serif text-sm text-gray-700 text-center">2 Airbags, Pedestrian Injury Mitigation Technology,  </p>

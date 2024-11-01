@@ -5,7 +5,7 @@ export default function Civic (){
     return (
         <div className="flex flex-col justify-center items-center space-y-16 my-4 ">
             <div className=" w-full h-auto flex flex-row justify-center float-left"> <h1 className=" font-semibold text-4xl text-gray-700 text-center"> Honda Civic 2024 Price in Pakistan, Images, Reviews & Specs</h1> </div>
-            <div className="w-90 h-auto float-left justify-center items-center"> <img src="civic.jpg" > </img></div>
+            <div className="w-90 h-auto float-left justify-center items-center"> <img src="civic.jpg" /></div>
             <div className="w-10/11 h-auto float-none justify-center items-center">
             <p className="font-bold text-base text-gray-800 text-center">Honda Civic Oriel </p>
             <p className="font-medium text-base text-gray-800 text-center">1498 cc, Automatic, Petrol </p>

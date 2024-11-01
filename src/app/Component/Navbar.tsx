@@ -34,7 +34,7 @@ export default function Navbar() {
                 src="pakwheel.jpg"
                 alt="logo"
                 className="flex flex-row w-40 h-8"
-              > </img>
+                />
             </div>
             <div className="flex flex-row space-x-3 items-center mx-2">
               <ul className="flex flex-row font-serif text-sm text-white space-x-4 items-center justify-around mx-10 gap-9">
