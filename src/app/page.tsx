@@ -1,8 +1,8 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
-import Corolla from "./Corolla/page";
-import Navbar from "./Component/Navbar";
-import Footer from "./Component/Footer";
+// import Corolla from "./Corolla/page";
+// import Navbar from "./Component/Navbar";
+// import Footer from "./Component/Footer";
 
 
 export default function Home() {
