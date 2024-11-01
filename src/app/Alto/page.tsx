@@ -5,7 +5,7 @@ export default function Alto (){
     return (
         <div className="flex flex-col justify-center items-center space-y-16 my-4 ">
             <div className=" w-full h-auto flex flex-row justify-center float-left"> <h1 className=" font-black text-4xl text-gray-700 text-center"> Suzuki Alto 2024 Price in Pakistan, Images, & Specs</h1> </div>
-            <div className="w-90 h-auto float-left justify-center items-center"> <img src="alto.jpg" alt="Toyota Corolla" /> </div>
+            <div className="w-90 h-auto float-left justify-center items-center"> <img src="alto.jpg" > </img> </div>
             <div className="w-10/15 h-auto float-left justify-center items-center">
             <p className="font-bold text-sm text-gray-700 justify-center text-center"> Suzuki Alto VX - 658 cc, Manual, Petrol  </p>
             <p className="font-serif text-sm text-gray-700 justify-center text-center"> Power Door Locks, Keyless Entry, Immobilizer,   </p>

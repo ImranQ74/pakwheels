@@ -6,7 +6,7 @@ export default function Corolla (){
     return (
         <div className="flex flex-col justify-center items-center space-y-16 my-4 ">
             <div className=" w-full h-auto flex flex-row justify-center float-left"> <h1 className=" font-sans font-bold text-4xl text-gray-700 text-center"> Toyota Corolla 2024 Price in Pakistan, Images, Reviews & Specs</h1> </div>
-            <div className="w-90 h-auto float-left justify-center"> <img src="corolla.jpg" alt="Toyota Corolla" /> </div>
+            <div className="w-90 h-auto float-left justify-center"> <img src="corolla.jpg" > </img></div>
             <div className="w-10/12 h-auto float-left justify-center items-center">
             <p className="font-extrabold text-sm text-gray-700 text-center"> Toyota Corolla Altis X Manual 1.6   </p>
             <p className="font-normal text-sm text-gray-700 text-center"> 1598 cc, Manual, Petrol   </p>
