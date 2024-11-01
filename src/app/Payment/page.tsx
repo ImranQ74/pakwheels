@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Thanks from "../Thanks/page";
+// import Thanks from "../Thanks/page";
 
 export default function Forms() {
     return (
